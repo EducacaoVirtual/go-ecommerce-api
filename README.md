@@ -1,7 +1,33 @@
 # Educação Virtual - Complete Go REST API
 ## E-commerce Products
 
+[![code-style](https://github.com/cable8mm/water-melon/actions/workflows/code-style.yml/badge.svg)](https://github.com/EducacaoVirtual/)
+[![run-tests](https://github.com/cable8mm/water-melon/actions/workflows/run-tests.yml/badge.svg)](https://github.com/EducacaoVirtual/)
 [![Go Reference](https://pkg.go.dev/badge/golang.org/x/example.svg)](https://pkg.go.dev/golang.org/x/example)
+![Packagist License](https://img.shields.io/packagist/l/cable8mm/water-melon)
+<a href="https://github.com/EducacaoVirtual/graphs/contributors">
+    <img src="https://img.shields.io/github/contributors/EducacaoVirtual/go-ecommerce-api" alt="contributors" />
+</a>
+<a href="">
+    <img src="https://img.shields.io/github/last-commit/EducacaoVirtual/go-ecommerce-api" alt="last update" />
+</a>
+<a href="https://github.com/EducacaoVirtual/network/members">
+    <img src="https://img.shields.io/github/forks/EducacaoVirtual/go-ecommerce-api" alt="forks" />
+</a>
+<a href="https://github.com/EducacaoVirtual/stargazers">
+    <img src="https://img.shields.io/github/stars/EducacaoVirtual/go-ecommerce-api" alt="stars" />
+</a>
+<a href="https://github.com/EducacaoVirtual/issues/">
+    <img src="https://img.shields.io/github/issues/EducacaoVirtual/go-ecommerce-api" alt="open issues" />
+</a>
+
+## Clone Project
+
+```sh
+$ git clone https://github.com/EducacaoVirtual/
+$ go-ecommerce-api.git
+$ cd ecommerce-api
+```
 
 ## Key Features
 
